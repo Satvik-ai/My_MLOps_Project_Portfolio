@@ -1,6 +1,11 @@
 MLOps Project Portfolio
 
-Welcome to my portfolio of Machine Learing Operations projects.
+Welcome to my portfolio of **Machine Learning Operations (MLOps)** projects.
+This collection showcases my hands-on experience in designing, building, and deploying end-to-end machine learning systems across different stages of the ML lifecycle.
+
+The projects demonstrate practical expertise in areas such as data and model versioning, feature management, experiment tracking, CI/CD automation, scalable deployment on Kubernetes, monitoring, and Responsible AI practices including fairness and explainability.
+
+Together, they reflect my approach to building reproducible, scalable, and production-ready ML systems using modern MLOps tools and cloud platforms.
 
 ---
 
